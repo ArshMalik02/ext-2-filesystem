@@ -1,5 +1,5 @@
 
-# Hey! I'm Filing Here
+# ext2 file system
 
 This project is based on developing a 1 MiB ext2 file system with 2 directories, 1 regular file, and 1 symbolic link.
 
