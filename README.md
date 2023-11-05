@@ -1,7 +1,7 @@
 
 # Hey! I'm Filing Here
 
-In this project, we will be making a 1 MiB ext2 file system with 2 directories, 1 regular file, and 1 symbolic link.
+This project is based on developing a 1 MiB ext2 file system with 2 directories, 1 regular file, and 1 symbolic link.
 
 ## Building
 
